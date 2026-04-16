@@ -1,5 +1,5 @@
 ## Hi there 👋
-Here are some small tools I vibe coded:
+Here are some small tools I designed and built:
 https://inertia05.github.io/
 
 <!--
